@@ -1,1 +1,4 @@
-console.log(location.href);
+window.onload = function() {
+	console.log(location.href);
+};
+
